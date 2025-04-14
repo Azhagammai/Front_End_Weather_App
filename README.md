@@ -10,7 +10,7 @@ click here 👉 https://weatherroc.vercel.app/
 
 ![Screenshot (186)](https://github.com/user-attachments/assets/f4a7a580-d7e6-4071-9e11-a98afc400178)
 
-#MAIN_PAGE
+# MAIN_PAGE
 
 ![Screenshot (187)](https://github.com/user-attachments/assets/cdd7de29-a3df-41c9-99fc-6f4acc98f840)
 
